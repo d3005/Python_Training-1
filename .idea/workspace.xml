@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad4723cc-e1d7-450f-a573-c1f379711f67" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Attribute examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File Handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance Examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Super Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Theory.txt" afterDir="false" />
-    </list>
+    <list default="true" id="ad4723cc-e1d7-450f-a573-c1f379711f67" name="Changes" comment="Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +20,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/d3005/Python_Training-1.git",
+    "accountId": "f67dab4c-b6e2-4347-b652-2bd5e8c78e88"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -82,8 +78,17 @@
       <option name="presentableId" value="Default" />
       <updated>1734940796415</updated>
       <workItem from="1734940797338" duration="3857000" />
-      <workItem from="1735544842962" duration="2037000" />
+      <workItem from="1735544842962" duration="2765000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1735547608586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735547608586</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
