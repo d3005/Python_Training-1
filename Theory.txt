@@ -1,0 +1,62 @@
+getattr(),setattr(),hasattr() - functions:
+getattr()://read operation of an object particular structure
+syntax:
+getattr(objectname,attributename)
+Description:
+The getattr() is used to get an object particular attribute data
+setattr()://write operation of an attribute of an object
+the setattr() is used to initialize or set an object particular attribute
+syntax:
+setattr(objectname,attributename,value)
+hasattr():
+Syntax: hasattr(objectname,attributename)
+
+Inheritance:
+Creating a new class by making use of an existing class
+Syntax:
+class child-child-class-name(or)derived class name(p1,p2,...pn):
+        class body
+p1=parent class 1
+p2=parent class 2
+.
+.
+.
+pn=parent class n
+There are 5 types of Inheritance:
+1. Single level Inheritance --> parent to child(A->B)
+2. Multilevel Inheritance --> parent to child and the child act as a parent to another child class(A->B->C)
+3. Multiple Inheritance --> Having more than one parent class to child class(A->C;B->C)
+4. Hierarchical Inheritance --> Deriving more than one child classes to a single parent class(A->B,C,D)
+5. Hybrid Inheritance --> Combination of any two types of inheritances (A->B,D,C->E)
+Super Function:It inherits properties and methods of parent class
+FILE HANDLING
+-------------:
+                 A file is a place on the disk.
+                 There are two types of files:
+                                             a. Text File
+                                             b. Binary File
+                 Advantages:
+                 -----------
+                            1. Creating or opening a file
+                            2. Read/Write operation on the file
+                            3. Closing the file
+                 open():
+                 ------
+                        syntax: fileptr object=open("filename","mode")
+                        1. The open() is used for creating a new file and as well as is used for opening a file already present in the system.
+                        2. When the mode specified is 'w' and if the file is already present then that file data get losses.
+                        3. When the mode specified is 'w' and if the file is not present then that file data get creates.
+                 mode:
+                 -----
+                        The mode specifies the intention of the user in opening the file
+                        r-read mode
+                        w-write mode
+                        a-append mode
+                        b-binary mode
+                 close():
+                 ---------
+                           syntax: fileptrobject.close()
+                           It breaks the connection from the file
+                 write():
+                 ---------
+                           syntax: fileptr
